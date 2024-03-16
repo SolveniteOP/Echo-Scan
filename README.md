@@ -16,7 +16,11 @@ This is a simple port scanner implemented in Python. The script allows you to sc
 
 3. Run the port scanner script:
     ```bash
+<<<<<<< HEAD
     python3 EchoScan.py
+=======
+    python3 Scanner.py
+>>>>>>> 415fa1efe0188d53dda54324c666779ec8410d6b
     ```
 
 4. Follow the prompts to enter the target host and port range.
