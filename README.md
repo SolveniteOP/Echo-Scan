@@ -1,4 +1,4 @@
-# Basic Port Scanner
+# EchoScan - A Basic Port Scanner
 
 This is a simple port scanner implemented in Python. The script allows you to scan a target host for open ports within a specified range.
 
@@ -6,17 +6,17 @@ This is a simple port scanner implemented in Python. The script allows you to sc
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/SolveniteOP/Port-Scanner.git
+    git clone https://github.com/SolveniteOP/EchoScan.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd Port-Scanner
+    cd EchoScan
     ```
 
 3. Run the port scanner script:
     ```bash
-    python3 Port-Scanner.py
+    python3 EchoScan.py
     ```
 
 4. Follow the prompts to enter the target host and port range.
@@ -34,10 +34,6 @@ This is a simple port scanner implemented in Python. The script allows you to sc
 ## Disclaimer
 
 This port scanner is meant for educational purposes only. Unauthorized scanning of systems without proper authorization is illegal and unethical. Use this tool responsibly and only on systems you have permission to scan.
-
-## Contribution
-
-Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
 ## License
 
