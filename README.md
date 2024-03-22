@@ -29,10 +29,6 @@ Note: Echo Scan might take some time to finish executing so please be patient.
 - Specify a custom port range to scan.
 - Lightweight and easy to use.
 
-## Requirements
-
-- Python 3.x
-
 ## Disclaimer
 
 This port scanner is meant for educational purposes only. Unauthorized scanning of systems without proper authorization is illegal and unethical. Use this tool responsibly and only on systems you have permission to scan.
