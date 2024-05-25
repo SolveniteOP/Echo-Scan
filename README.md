@@ -21,13 +21,7 @@ This is a simple port scanner implemented in Python. The script allows you to sc
 
 4. Follow the prompts to enter the target host and port range.
 
-Note: Echo Scan might take some time to finish executing so please be patient.
-
-## Features
-
-- Scan a target host for open ports.
-- Specify a custom port range to scan.
-- Lightweight and easy to use.
+Note: The scanner might take some time to finish executing so please be patient.
 
 ## Disclaimer
 
@@ -36,5 +30,10 @@ This port scanner is meant for educational purposes only. Unauthorized scanning 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
+
+## Contact
+
+- **GitHub**: (https://github.com/solveniteop)
+- **Email**: solveniteop@proton.me
 
 This is a fun project I created to learn more about networking and Python. Feel free to contribute to the project by creating a pull request or opening an issue. If you have any questions or suggestions, please feel free to reach out to me! I'm always looking to make improvements and get better :)
