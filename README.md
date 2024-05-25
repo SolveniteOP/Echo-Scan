@@ -36,3 +36,5 @@ This port scanner is meant for educational purposes only. Unauthorized scanning 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
+
+This is a fun project I created to learn more about networking and Python. Feel free to contribute to the project by creating a pull request or opening an issue. If you have any questions or suggestions, please feel free to reach out to me! I'm always looking to make improvements and get better :)
