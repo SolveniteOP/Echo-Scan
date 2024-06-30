@@ -1,20 +1,20 @@
 import socket
 import re
 
-# Regular Expression Pattern to recognise IPv4 addresses.
+# Regular Expression Pattern to recognize IPv4 addresses.
 ip_add_pattern = re.compile("^(?:[0-9]{1,3}\.){3}[0-9]{1,3}$")
 
-# Regular Expression Pattern to extract the number of ports to scan. 
+# Regular Expression Pattern to extract the number of ports you want to scan. 
 port_range_pattern = re.compile("([0-9]+)-([0-9]+)")
 
 # Basic header
 print("\n****************************************************************")
-print("\nHey! Welcome to my port scanner! This is a simple tool that allows you to scan a target IP for open ports.")
+print("\nWelcome to my port scanner! This is a simple tool that allows you to scan a target IP for open ports.")
 print("\n****************************************************************")
 
 open_ports = []
 
-# Asking users to input the IP address they want to scan.
+# Asking user to input the ip address they want to scan.
 while True:
     ip_add_entered = input("\nEnter the ip address that you want to scan: ")
     if ip_add_pattern.search(ip_add_entered):
